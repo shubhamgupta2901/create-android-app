@@ -1,4 +1,4 @@
-package com.sg.template.utils.utils;
+package com.sg.template.utils;
 
 import android.app.Activity;
 import android.content.Context;

@@ -12,7 +12,7 @@ import android.view.Window;
 import android.view.WindowManager.LayoutParams;
 
 
-import com.sg.template.utils.utils.LogUtils;
+import com.sg.template.utils.LogUtils;
 
 import butterknife.ButterKnife;
 import butterknife.Unbinder;

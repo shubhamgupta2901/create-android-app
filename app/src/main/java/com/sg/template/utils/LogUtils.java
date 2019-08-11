@@ -1,4 +1,4 @@
-package com.sg.template.utils.utils;
+package com.sg.template.utils;
 
 
 import com.sg.template.AppConfig;

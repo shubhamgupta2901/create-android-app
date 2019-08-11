@@ -13,7 +13,7 @@ import android.view.inputmethod.InputMethodManager;
 
 
 import com.sg.template.ui.dialogs.LoadingDialog;
-import com.sg.template.utils.utils.LogUtils;
+import com.sg.template.utils.LogUtils;
 
 import butterknife.ButterKnife;
 
