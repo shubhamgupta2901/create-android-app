@@ -13,6 +13,12 @@
         <item name="android:textColorSecondary">#ffffffff</item>
     </style>
 
+    <style name="Material_Card_View">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+        <item name="android:layout_margin">6dp</item>
+    </style>
+
     <style name="ProgressView">
         <item name="minWidth">48dip</item>
         <item name="maxWidth">48dip</item>
