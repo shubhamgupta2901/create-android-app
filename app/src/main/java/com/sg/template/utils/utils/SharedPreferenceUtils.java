@@ -3,7 +3,8 @@ package com.sg.template.utils.utils;
 import android.content.SharedPreferences;
 import android.content.SharedPreferences.Editor;
 
-import com.sg.forkify.AppMain;
+
+import com.sg.template.AppMain;
 
 import static android.os.Build.VERSION.SDK_INT;
 import static android.os.Build.VERSION_CODES.GINGERBREAD;
