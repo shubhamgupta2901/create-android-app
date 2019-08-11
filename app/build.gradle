@@ -9,6 +9,12 @@ android {
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+
+
+        buildConfigField "String", "LOG_TAG", "\"YOUR_LOG_TAG\""
+        buildConfigField "String", "DATABASE_NAME", "\"YOUR_DB_NAME\""
+        buildConfigField "String", "SHARED_PREF_NAME", "\"YOUR_SP_NAME\""
+        buildConfigField "String", "HOST_URL", "\"YOUR_HOST_URL\""
     }
     buildTypes {
         release {
